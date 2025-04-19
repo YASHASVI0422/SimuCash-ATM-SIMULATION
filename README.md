@@ -38,14 +38,12 @@ SimuCash is a simple **ATM Simulation System** developed in **Java**, designed t
    git clone https://github.com/YASHASVI0422/SimuCash-ATM-SIMULATION.git
    cd SimuCash-ATM-SIMULATION
 ---
-##📘 Learning Highlights
+## 📘 Learning Highlights
+
 Through this project, you'll learn:
-
-Java basics (variables, loops, conditionals)
-
-OOP concepts like classes and methods
-
-Menu-driven logic and application flow control
+- **Java basics (variables, loops, conditionals)**
+- **OOP concepts like classes and methods**
+- **Menu-driven logic and application flow control**
 
 🙌 Contributions
 Feel free to fork this repo and submit pull requests if you'd like to improve the project, add new features, or refactor the code for better performance.
