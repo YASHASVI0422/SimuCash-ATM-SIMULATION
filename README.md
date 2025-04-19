@@ -31,17 +31,13 @@ SimuCash is a simple **ATM Simulation System** developed in **Java**, designed t
 
 ---
 
-## 📂 How to Run
-
----
-
 ## 🛠️ How to Run
 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/YASHASVI0422/SimuCash-ATM-SIMULATION.git
    cd SimuCash-ATM-SIMULATION
-
+---
 ##📘 Learning Highlights
 Through this project, you'll learn:
 
